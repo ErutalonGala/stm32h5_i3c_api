@@ -1,0 +1,6 @@
+../Application/User/bst_api.c:41:6:I3C_WRITE_REGS	64	static
+../Application/User/bst_api.c:105:6:I3C_READ_REGS	88	static
+../Application/User/bst_api.c:162:6:SET_I3C_BUS_FREQ	24	static
+../Application/User/bst_api.c:209:6:CCC_BROADCAST	48	static
+../Application/User/bst_api.c:248:6:CCC_DIRECT_READ	48	static
+../Application/User/bst_api.c:288:6:CCC_DIRECT_WRITE	48	static

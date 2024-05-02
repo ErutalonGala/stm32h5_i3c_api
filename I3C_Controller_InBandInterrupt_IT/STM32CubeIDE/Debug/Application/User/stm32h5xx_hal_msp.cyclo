@@ -1,0 +1,3 @@
+C:/Users/yuh1rt/Documents/pro/stm32h5_i3c_api/I3C_Controller_general/I3C_Controller_InBandInterrupt_IT/Src/stm32h5xx_hal_msp.c:64:6:HAL_MspInit	1
+C:/Users/yuh1rt/Documents/pro/stm32h5_i3c_api/I3C_Controller_general/I3C_Controller_InBandInterrupt_IT/Src/stm32h5xx_hal_msp.c:82:6:HAL_I3C_MspInit	3
+C:/Users/yuh1rt/Documents/pro/stm32h5_i3c_api/I3C_Controller_general/I3C_Controller_InBandInterrupt_IT/Src/stm32h5xx_hal_msp.c:138:6:HAL_I3C_MspDeInit	2

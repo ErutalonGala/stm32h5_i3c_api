@@ -1,0 +1,7 @@
+
+After everytime the code is regenerated through STM_MXCube
+--Need to manually place source and header file named "stm32h5xx_util_i3c" from github repo to project folder "\Drivers\STM32H5xx_HAL_Driver\Src" and "\Drivers\STM32H5xx_HAL_Driver\Src" folders respectively.
+
+Sensor not acknowledging write commands having frequency>2Mhz. Working for 1Mhz. (Could be due to wires?)
+
+After setting I3C bit A delay is mandatory other Dynamic address won't work.
